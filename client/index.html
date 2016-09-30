@@ -1,0 +1,31 @@
+<!DOCTYPE>
+<html>
+    <body>
+        <head>
+            <link rel="stylesheet" href="css/styles.css">
+        </head>
+        <div role="main" class="mainContainer">
+            <h1>MVC Todo list</h1>
+            <form class="form" action="/todos" id="todoForm">
+                <input id="todo-input" class="form__textInput" name="newTodo" placeholder="what do you want to do?"/>
+                <input type="submit" value="Todo" class="form__button" />
+            </form>
+            <div class="filterNav">
+                <a href="#" class="filter completeTask">hide complete</a>
+                <a href="#" class="filter incompleteTask">hide incomplete</a>
+                <a href="#" class="filter clearFilter">show all</a>
+            </div>
+            <ul id="todoList" class="todoList">
+                <!-- template inserted -->
+            </ul>
+            <div class="todo_count">
+            </div>
+            <p class="incompleteItemCount">
+            </p>
+            <a href="#" class="clearCompleted notSowing">Clear Completed</a>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="scripts/app.js"></script>
+        </script>
+    </body>
+</html>

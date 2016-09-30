@@ -1,0 +1,686 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cat",
+				"catObj"
+			],
+			[
+				"this",
+				"thisCatIndex"
+			],
+			[
+				"click",
+				"clickedCat"
+			],
+			[
+				"get",
+				"getVisibleCat"
+			],
+			[
+				"update",
+				"updateCounter"
+			],
+			[
+				"coun",
+				"counter_value"
+			],
+			[
+				"counter",
+				"counter_value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cou",
+				"counter_value"
+			],
+			[
+				"count",
+				"counter_value"
+			],
+			[
+				"check",
+				"checkForItems"
+			],
+			[
+				"title",
+				"titletext"
+			],
+			[
+				"run",
+				"runWintersmith"
+			],
+			[
+				"bloc",
+				"block_header"
+			],
+			[
+				"conte",
+				"content_block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"av",
+				"avenir_heavy"
+			],
+			[
+				"copy",
+				"copy_color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 3229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2995,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 97.0,
+		"last_filter": "package install",
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/press/Sites/mvc-todo",
+		"/Users/press/Sites/mvc-todo/client",
+		"/Users/press/Sites/mvc-todo/server"
+	],
+	"file_history":
+	[
+		"/Users/press/Sites/mvc-todo/client/foo.js",
+		"/Users/press/Sites/mvc-todo/.gitignore",
+		"/Users/press/Sites/mvc-todo/server/index.js",
+		"/Users/press/Sites/cat_clicker/index.html",
+		"/Users/press/Downloads/Ex_Files_HTML5_Adv_ToDo/Exercise Files/Chapter 3/03_05/_scripts/jquery.sortable.js",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/styles.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/header.php",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/globalstyles.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/if-article-no-feature-image.php",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/posts.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/if-article.php",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin/functions.php",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/functions.php",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/page_layout.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/nav.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/_mixins.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/styles.css",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/Gruntfile.js",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/styles.css.map",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/slider.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-admin/options-reading.php",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/scripts/navigation.js",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/index.php",
+		"/Users/press/Library/Caches/Cleanup At Startup/Transmit/D2B64049-8B1A-472B-BD1E-477D79A39A22/custom.js",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin/js/custom.js",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/footer.php",
+		"/Users/press/Sites/intentionalfutures/apply/wp-content/themes/blankslate/styles/styles.css",
+		"/Users/press/Sites/intentionalfutures/apply/wp-content/themes/blankslate/readme.md",
+		"/Users/press/Sites/intentionalfutures/apply/wp-content/themes/blankslate/.gitignore",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/socialiconfonts.scss",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/style.css",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/.gitignore",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/readme.md",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/sass/.gitignore",
+		"/Users/press/Sites/intentionalfutures/blog/wp-content/themes/Origin-child/src/scripts/category.js",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/globalstyles.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/people/chebotareva_ilona.md",
+		"/Users/chrisburke/Sites/intentionalfutures/viacom/build/aws-upload.conf.js",
+		"/Users/chrisburke/Sites/if.com/src/contents/people/lewis_aaron.md",
+		"/Users/chrisburke/Sites/if.com/scripts/onload.js",
+		"/Users/chrisburke/Sites/if.com/src/contents/people/burke_chris.md",
+		"/Users/chrisburke/Sites/if.com/src/contents/people/jones_gabriel.md",
+		"/Users/chrisburke/Sites/if.com/scripts/lazyloadxt.js",
+		"/Users/chrisburke/Sites/if.com/scripts/people.js",
+		"/Users/chrisburke/Sites/if.com/src/contents/scripts/people.js",
+		"/Users/chrisburke/Sites/if.com/src/Gruntfile.js",
+		"/Users/chrisburke/Sites/if.com/src/templates/portfolio.jade",
+		"/Users/chrisburke/Sites/if.com/aws-upload.conf.js",
+		"/Users/chrisburke/Sites/if.com/src/contents/scripts/joblist.js",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/8DD86228-FFBC-4BE7-9A4A-C75693BF277E/style.css",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/B423F1AA-DBF3-422F-BE66-0C81E7D5EEE7/single.php",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/contact.scss",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/F1105B3B-EC4A-4ADA-B599-D20D63A89526/styles.css",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/3776F354-BCD2-4F9E-9F89-6EA4EA03770B/styles.css",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/32F2A719-8AE1-444D-9430-467A04D8FC86/styles.css",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/E87A6747-2D34-4ADB-B0A9-53F701523192/index.html",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/7C95416D-03B5-4EA3-8096-0CCBB534EEC6/functions.php",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/9DE1D6B2-5698-43AE-86BD-AE50CC8C09CC/functions.php",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/10F5102C-8DDB-4100-A692-A5855147539E/onload.js",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/F27F64D6-92D0-4962-A7F4-DF8BD135EAD6/main.js",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/36F693D0-47D4-4A52-8A30-C096DBBB787D/functions.php",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/714942ED-9F9A-4787-BB8F-B9BD2DC57344/functions.php",
+		"/Users/chrisburke/Sites/intentionalfutures/viacom/build/.htpasswd",
+		"/Users/chrisburke/Sites/if.com/src/templates/case_study.jade",
+		"/Users/chrisburke/Sites/if.com/src/templates/layout.jade",
+		"/Users/chrisburke/Sites/if.com/src/config.json",
+		"/Users/chrisburke/Sites/if.com/src/templates/play.jade",
+		"/Users/chrisburke/Sites/intentionalfutures/viacom/.htpasswd",
+		"/Users/chrisburke/Sites/if.com/src/node_modules/browserify/node_modules/events/events.js",
+		"/Users/chrisburke/Sites/if.com/src/templates/index.jade",
+		"/Users/chrisburke/Sites/if.com/portfolio/aws-credentials.json",
+		"/Users/chrisburke/Sites/if.com/portfolio/product_immersions",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/case_study.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/portfolio.scss",
+		"/Users/chrisburke/Sites/if.com/src/package.json",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/B87802FB-311A-4367-B858-003AC675A5A2/header.php",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/499C0DC7-91F2-4E6E-893A-4FCEBEC08068/style.css",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/27ECF616-B46F-4B52-8708-EC97EB589456/styles.css",
+		"/Users/chrisburke/Sites/if.com/src/templates/portfolio_reel.jade",
+		"/Users/chrisburke/Sites/if.com/portfolio/iF_reel.html",
+		"/Users/chrisburke/Sites/if.com/src/templates/purpose.jade",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/FA9A10CB-220E-4E46-99F9-B746B9FC526A/header.php",
+		"/Users/chrisburke/Library/Caches/Cleanup At Startup/Transmit/FE00A9E9-F0E8-4882-89DA-9C57E6B256D2/styles.css",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/purpose.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/data_vision.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/portfolio/data_supply_chain.md",
+		"/Users/chrisburke/Sites/if.com/portfolio/data_supply_chain.html",
+		"/Users/chrisburke/Sites/if.com/portfolio/data_vision.html",
+		"/Users/chrisburke/Sites/if.com/src/templates/scripts.jade",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/_variables.scss",
+		"/Users/chrisburke/Desktop/package.json",
+		"/Users/chrisburke/Desktop/Gruntfile.js",
+		"/Users/chrisburke/Sites/if.com/src/GulpFile.js",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/normalize.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/css/styles.css",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/avenir.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/empathy_agent.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/slick.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/bighistory.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/college_knowledge.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/donation_innovation.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/socialiconfonts.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/product_immersions.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/page_pilling.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/moxie_machine.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/mobile_data.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/mobile_chronicles.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/learning_maps.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/inbloom.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/grid_inline_block.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/graphite.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/fullpage.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/tedtalks.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/styles.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/scripts/script.js",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/nav.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/_mixins.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/people.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/play.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/sass/fonts.scss",
+		"/Users/chrisburke/Sites/if.com/sass/socialiconfonts.scss",
+		"/Users/chrisburke/Sites/if.com/sass/avenir.scss",
+		"/Users/chrisburke/Sites/if.com/sass/graphite.scss",
+		"/Users/chrisburke/Sites/if.com/src/contents/portfolio/graphite.md",
+		"/Users/chrisburke/Sites/if.com/src/contents/portfolio/mobile_chronicles.md",
+		"/Users/chrisburke/Sites/if.com/src/contents/portfolio/individual_learning_maps.md",
+		"/Users/chrisburke/Sites/if.com/sass/learning_maps.scss"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			".scss",
+			"",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.jade",
+			"*.scss",
+			"",
+			"*.scss",
+			"/src/contents/sass/*.scss",
+			"*.scss",
+			"socialiconfonts.scss",
+			"avenir.scss",
+			"graphite.scss",
+			"learning_maps.scss",
+			"empathy_agent.scss",
+			"college_knowledge.scss",
+			"donation_innovation.scss",
+			"product_immersions.scss",
+			"inbloom.scss",
+			"bighistory.scss",
+			"tedtalks.scss",
+			"mobile_chronicles.scss",
+			"inbloom.scss",
+			"moxie_machine.scss",
+			"",
+			"*.md",
+			"*.scss",
+			"data_vision.scss",
+			"*.js",
+			"*.scss",
+			"",
+			".jade",
+			"art-director.md",
+			"producer.md",
+			"Company",
+			"",
+			"art-director.md",
+			"art-diretcor.md",
+			"art-direcor.md",
+			"",
+			"src/contents/sass/*.scss",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"\"],\n",
+			"console",
+			"consol",
+			"402",
+			"isValid",
+			"get",
+			"-15px",
+			"100vw",
+			"somethingnew",
+			"icon_x_close,",
+			"_close,",
+			"nav",
+			"styles",
+			"#main-content",
+			"first-letter",
+			"job_detail",
+			"job_detail'",
+			"job_detail",
+			".icon_x_close",
+			"close",
+			"@include logo_black;",
+			"#logo",
+			"logo_black",
+			"iF_logo_black.svg",
+			"logo",
+			"footer",
+			"icon_x_close",
+			"back_button",
+			"at most",
+			"options-reading.php",
+			"posts_per_page",
+			"read our minds",
+			"info",
+			"master-slider-parent",
+			"30px 0 50px",
+			"cdn",
+			"ms-info",
+			"et_hover",
+			"overlay",
+			"click",
+			"min-width",
+			"breakpoint",
+			"block",
+			"h1",
+			".border",
+			"border",
+			"Come",
+			"category",
+			".inner",
+			".category_container",
+			".categroy_container",
+			"ms-info",
+			"infscr",
+			"mono",
+			"menu",
+			"categor",
+			"users",
+			"grab video embed code from the markup and dynamically add iframe ",
+			"timeout",
+			"time",
+			"rgba",
+			"target",
+			"module.exports",
+			"module.exports = {};",
+			"var exports = module.exports = {};",
+			"position",
+			"job",
+			"position",
+			"job_list",
+			"?",
+			"myblog_limit",
+			"translate",
+			"placeholder",
+			"extend",
+			"main",
+			"fs",
+			"client_logos",
+			"trans",
+			"transition",
+			"logo",
+			"sass",
+			"bullitt_center.jpg",
+			"Morework_",
+			"7Morework_",
+			"logo",
+			"iF_logo",
+			"logo",
+			"iF_logo",
+			"logo",
+			"iF_logo_",
+			"'../fonts/",
+			"../fonts/",
+			"/portfolio/assets/graphite",
+			"/portfolio/assets/learning_maps",
+			"/portfolio/assets/empathy_agent",
+			"/portfolio/assets/college_knowledge",
+			"/portfolio/assets/donation_innovation",
+			"/portfolio/assets/product_immersions",
+			"/portfolio/assets/bighistory",
+			"/portfolio/assets/tedtalks",
+			"/portfolio/assets/mobile_chronicles",
+			"/portfolio/assets/inbloom",
+			"/portfolio/assets/moxie_machine",
+			"class",
+			"data_value",
+			"data_vision",
+			"data supply",
+			"data supply chaina",
+			"/play/assets/images/",
+			"video",
+			"video_embed",
+			"video",
+			"mobile-data",
+			"click",
+			"ull",
+			"timeout",
+			"scroll",
+			"scroll_down",
+			"linked",
+			"label",
+			"share",
+			"url",
+			"sharing",
+			"header",
+			"visit",
+			"join_us_layout",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$cdn + '/fonts/",
+			"$cdn + '/fonts",
+			"$cdn + '/fonts/",
+			"$cdn + '/portfolio/graphite",
+			"$cdn + '/portfolio/learning_maps",
+			"$cdn + '/portfolio/empathy_agent",
+			"$cdn + '/portfolio/college_knowledge",
+			"$cdn + '/portfolio/donation_innovation",
+			"$cdn + '/portfolio/product_immersions",
+			"$cdn + '/portfolio/bighistory",
+			"$cdn + '/portfolio/tedtalks",
+			"$cdn + '/portfolio/mobile_chronicles",
+			"$cdn + '/portfolio/inbloom",
+			"$cdn + '/portfolio/moxie_machine",
+			"http://dy6i7juttszrp.cloudfront.net/play/",
+			"data_vision",
+			"- data_vision",
+			"- ",
+			"font-family: $heavy_font;",
+			"medium_font",
+			"bold_font"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2672,
+								2672
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 474.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"function",
+				"wp-content/themes/Origin/functions.php"
+			],
+			[
+				"grunt",
+				"wp-content/themes/Origin-child/Gruntfile.js"
+			],
+			[
+				"options-reading.php",
+				"wp-admin/options-reading.php"
+			],
+			[
+				"grun",
+				"src/Gruntfile.js"
+			],
+			[
+				"events",
+				"src/node_modules/browserify/node_modules/events/events.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
